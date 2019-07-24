@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    padding: 17%;
+}
+#heading{
+    font-size: 400%;
+    font-style: italic;
+}
+#type{
+    background-color: peachpuff;
+    font-size: xx-large;
+  
+}
